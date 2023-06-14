@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("bckgrd.jpg");
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .city {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 200px;
+    height: 50;
+  }
+  
+  .weather-icon {
+    margin-bottom: 10px;
+  }
+  
+  .temperature {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #888;
+    margin-top: 5px;
+  }
+  .features p {
+    display: flex;
+            align-items: center;
+            padding: 20px;
+            font-size: medium;
+            font-style: italic;
+  }
+  
