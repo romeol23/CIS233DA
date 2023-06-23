@@ -1,0 +1,11 @@
+@media screen and (min-width: 1024px){
+    #medium{
+        display:none;
+    }
+    #small{
+        display:none;
+    }
+    #large{
+        display:inline;
+    }
+}
